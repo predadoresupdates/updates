@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books xmlns="http://www.contoso.com/books">
+  <book genre="novel" ISBN="1-861001-45-3" publicationdate="1811-01-01">
+    <versao>1.0.2</versao>
+    <ip>189.47.42.21</ip>
+    <atualizacao1.0.0>https://www.dropbox.com/s/703v3htsik4bmo8/Update1.0.0.zip?dl=1</atualizacao1.0.0>
+    <atualizacao1.0.1>https://www.dropbox.com/s/oi9wxn6lru19u7f/Update1.0.1.zip?dl=1</atualizacao1.0.1>
+    <mods>Mods\@CF;Mods\@PartyMe;Mods\@PlayerCounter;Mods\@VanillaPlusPlusMap;Mods\@PortuguesBR;Mods\@DayZ-Expansion-Notifications;Mods\@DayZ-Expansion-Notifications-Info;Mods\@DayZ-Expansion-Chat;Mods\@Code Lock;Mods\@MunghardsItempack;Mods\@VPPNotifications;Mods\@VPPAdminTools;Mods\@Base Furniture Mods 2.0;Mods\@BuildAnywhere;</mods>
+	</book>
+</books>
